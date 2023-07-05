@@ -1,0 +1,42 @@
+2023-04-17T07:07:40+00:00 CRITICAL syntax error, unexpected token "endif", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-shop.php на строке 48
+
+2023-04-17T07:07:55+00:00 CRITICAL syntax error, unexpected token "endwhile", expecting "elseif" or "else" or "endif" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 49
+
+2023-04-17T07:12:17+00:00 CRITICAL syntax error, unexpected token ";", expecting "(" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 48
+
+2023-04-17T07:13:22+00:00 CRITICAL syntax error, unexpected token "endif", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-shop.php на строке 48
+
+2023-04-17T07:16:33+00:00 CRITICAL syntax error, unexpected token "endif", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-shop.php на строке 48
+
+2023-04-17T07:16:37+00:00 CRITICAL syntax error, unexpected token "endif", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-shop.php на строке 48
+
+2023-04-17T07:27:20+00:00 CRITICAL syntax error, unexpected token "else", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 50
+
+2023-04-17T07:29:20+00:00 CRITICAL syntax error, unexpected token "else", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 50
+
+2023-04-17T07:29:45+00:00 CRITICAL syntax error, unexpected token "else", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 50
+
+2023-04-17T07:30:50+00:00 CRITICAL syntax error, unexpected token "else", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 50
+
+2023-04-17T07:31:13+00:00 CRITICAL syntax error, unexpected token "else", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 50
+
+2023-04-17T07:31:19+00:00 CRITICAL syntax error, unexpected token "else", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 50
+
+2023-04-17T07:35:31+00:00 CRITICAL Unmatched ')' в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-home.php на строке 26
+
+2023-04-17T07:38:01+00:00 CRITICAL syntax error, unexpected token "==", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-home.php на строке 13
+
+2023-04-17T07:55:48+00:00 CRITICAL syntax error, unexpected token "endif", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-shop.php на строке 48
+
+2023-04-17T08:14:19+00:00 CRITICAL syntax error, unexpected token "," в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 20
+
+2023-04-17T08:15:01+00:00 CRITICAL syntax error, unexpected token "," в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 20
+
+2023-04-17T08:15:04+00:00 CRITICAL syntax error, unexpected token "," в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 20
+
+2023-04-17T08:15:21+00:00 CRITICAL syntax error, unexpected token "," в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 20
+
+2023-04-17T08:26:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded в C:\xampp\htdocs\coffee-shop\wp-includes\template.php на строке 705
+
+2023-04-17T09:25:16+00:00 CRITICAL syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 75
+

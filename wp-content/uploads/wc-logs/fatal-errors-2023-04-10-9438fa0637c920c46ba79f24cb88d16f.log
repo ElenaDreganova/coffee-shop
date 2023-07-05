@@ -1,0 +1,2 @@
+2023-04-10T22:57:29+00:00 CRITICAL Cannot redeclare the_posts_pagination() (previously declared in C:\xampp\htdocs\coffee-shop\wp-includes\link-template.php:2970) в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\functions.php на строке 58
+

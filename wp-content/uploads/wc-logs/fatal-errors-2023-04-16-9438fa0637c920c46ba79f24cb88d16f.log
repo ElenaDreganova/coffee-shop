@@ -1,0 +1,74 @@
+2023-04-16T07:18:11+00:00 CRITICAL syntax error, unexpected token "endwhile" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 38
+
+2023-04-16T07:19:00+00:00 CRITICAL syntax error, unexpected token "endwhile" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 38
+
+2023-04-16T07:19:05+00:00 CRITICAL syntax error, unexpected token "endwhile" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 38
+
+2023-04-16T07:23:48+00:00 CRITICAL syntax error, unexpected token "else" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 33
+
+2023-04-16T07:25:52+00:00 CRITICAL syntax error, unexpected token "else" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 37
+
+2023-04-16T07:26:09+00:00 CRITICAL syntax error, unexpected token "endif", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-shop.php на строке 48
+
+2023-04-16T07:26:41+00:00 CRITICAL syntax error, unexpected token "endif", expecting end of file в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-shop.php на строке 48
+
+2023-04-16T07:30:56+00:00 CRITICAL syntax error, unexpected token "else" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 36
+
+2023-04-16T07:41:16+00:00 CRITICAL syntax error, unexpected token "else" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php на строке 39
+
+2023-04-16T14:53:23+00:00 CRITICAL Uncaught Error: Attempt to assign property "post_content" on null in C:\xampp\htdocs\coffee-shop\wp-admin\includes\post.php:762
+Stack trace:
+#0 C:\xampp\htdocs\coffee-shop\wp-admin\post-new.php(66): get_default_post_to_edit('post', true)
+#1 {main}
+  thrown в C:\xampp\htdocs\coffee-shop\wp-admin\includes\post.php на строке 762
+
+2023-04-16T14:55:04+00:00 CRITICAL Uncaught Error: Attempt to assign property "post_content" on null in C:\xampp\htdocs\coffee-shop\wp-admin\includes\post.php:762
+Stack trace:
+#0 C:\xampp\htdocs\coffee-shop\wp-admin\post-new.php(66): get_default_post_to_edit('post', true)
+#1 {main}
+  thrown в C:\xampp\htdocs\coffee-shop\wp-admin\includes\post.php на строке 762
+
+2023-04-16T14:55:43+00:00 CRITICAL Uncaught Error: Attempt to assign property "post_content" on null in C:\xampp\htdocs\coffee-shop\wp-admin\includes\post.php:762
+Stack trace:
+#0 C:\xampp\htdocs\coffee-shop\wp-admin\post-new.php(66): get_default_post_to_edit('post', true)
+#1 {main}
+  thrown в C:\xampp\htdocs\coffee-shop\wp-admin\includes\post.php на строке 762
+
+2023-04-16T18:53:53+00:00 CRITICAL syntax error, unexpected token ":", expecting ")" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 67
+
+2023-04-16T19:58:40+00:00 CRITICAL Uncaught Error: Call to undefined function coffeeshop_the_posts_pagination() in C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php:51
+Stack trace:
+#0 C:\xampp\htdocs\coffee-shop\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\coffee-shop\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\coffee-shop\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php(25): get_template_part('template-parts/...', 'blog')
+#4 C:\xampp\htdocs\coffee-shop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\coffee-shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\coffee-shop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 51
+
+2023-04-16T20:00:25+00:00 CRITICAL Uncaught Error: Call to undefined function сoffeeshop_the_posts_navigation() in C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php:51
+Stack trace:
+#0 C:\xampp\htdocs\coffee-shop\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\coffee-shop\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\coffee-shop\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\page.php(25): get_template_part('template-parts/...', 'blog')
+#4 C:\xampp\htdocs\coffee-shop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\coffee-shop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\coffee-shop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 51
+
+2023-04-16T20:08:43+00:00 CRITICAL syntax error, unexpected single-quoted string "prev_text", expecting ")" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 55
+
+2023-04-16T20:10:29+00:00 CRITICAL syntax error, unexpected single-quoted string "prev_text", expecting ")" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 55
+
+2023-04-16T20:11:30+00:00 CRITICAL syntax error, unexpected single-quoted string "prev_text", expecting ")" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 55
+
+2023-04-16T20:12:43+00:00 CRITICAL syntax error, unexpected single-quoted string "prev_text", expecting ")" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 55
+
+2023-04-16T20:13:17+00:00 CRITICAL syntax error, unexpected single-quoted string "prev_text", expecting ")" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 55
+
+2023-04-16T20:13:43+00:00 CRITICAL syntax error, unexpected single-quoted string "prev", expecting ")" в C:\xampp\htdocs\coffee-shop\wp-content\themes\coffeeshop\template-parts\content-blog.php на строке 55
+
